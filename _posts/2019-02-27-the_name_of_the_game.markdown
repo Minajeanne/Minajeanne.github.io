@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Name of The Game"
-date:       2019-02-27 22:41:24 +0000
+date:       2019-02-27 17:41:25 -0500
 permalink:  the_name_of_the_game
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Brewing My First Ruby CLI Gem"
-date:       2019-11-14 14:48:15 +0000
+date:       2019-11-14 09:48:16 -0500
 permalink:  brewing_my_first_ruby_cli_gem
 ---
 
